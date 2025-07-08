@@ -1,0 +1,6 @@
+{
+  "name": "EquiManage AI",
+  "description": "An AI-powered dashboard for managing a horse stable. It helps with scheduling appointments, managing tasks, and processing owner requests from WhatsApp messages using Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
